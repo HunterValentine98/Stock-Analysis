@@ -23,6 +23,14 @@ In this project, we are tasked with helping our friend Steve. He just graduated 
 
 
 
-### Summary 
+## Advantages and Disadvantages of Refactoring Code
+Refactoring code is an essential part of data analytics. Rather than creating code, we are modifying code to make it more efficent. One advanatge of refactoring (as in this example) is making our programs run quicker. As with everything, refactoring has its disadvantages too. I would say that one of the biggest disadvantages of refactoring code is by working on a code that already works, we could be introducing new bugs and errors into a code that already worked fine.
+
+
+
+
+
+
+
 
 
