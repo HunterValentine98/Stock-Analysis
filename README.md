@@ -19,6 +19,8 @@ In this project, we are tasked with helping our friend Steve. He just graduated 
 
 ![Run Time for 2018](Resources/VBA_Challenge_2018.png)
 
+*It looks very clear that performance in 2017 was much better than 2018. Only one stock in 2017 had negative returns for the year, while  10 stocks showed negative returns in 2018. Based on the performances of the stocks, I would advise Steve that DQ is actually not the best performer. It appears that the best performer over the 2 year span was ENPH. The ENPH increased 129.5% in 2017 and 81.9% in 2018. 
+
 
 
 ### Summary 
