@@ -10,10 +10,14 @@ In this project, we are tasked with helping our friend Steve. He just graduated 
 ### Analysis of Stock Performance in 2017
 ![Stock Performance in 2017](Resources/Performance_2017.png)
 
+![Run Time for 2017](Resources/VBA_Challenge_2017.png)
+
 
 
 ### Analysis of Stock Performance in 2018
-![Stock Performance in 2018](Resources/Peformance_2018.png)
+![Stock Performance in 2018](Resources/Performance_2018.png)
+
+![Run Time for 2018](Resources/VBA_Challenge_2018.png)
 
 
 
