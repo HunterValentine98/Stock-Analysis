@@ -1,7 +1,7 @@
 # Stock-Analysis
 
 ## Overview of Project
-In this project, we were given data by Louise. Louise is working on his own play, titled Fever, and would like us to analyze the data he provided to us about other kickstarter projects to see how they performed in certain categories.
+In this project, we are tasked with helping our friend Steve. He just graduated from college, and his parents are going to be his first clients for his new finance job. They are looking to specifically invest in green energy. Steve has gotten the data on a few green energy comapnies and wants us to simplify the data to display the performance of the companies' stocks in 2017 and in 2018. In addition to this, he would like us to refactor a VBA script so that it runs the analysis quicker than before. 
 
 
 
@@ -10,12 +10,12 @@ In this project, we were given data by Louise. Louise is working on his own play
 ### Analysis of Stock Performance in 2017
 ![Stock Performance in 2017](Resources/Performance_2017.png)
 
-*Based on the graph created above, Louise should most likely launch his kickstarter in either May, June, or July. The worst month appears to be December, where the number of successful and failed campaigns are almost equal.
+
 
 ### Analysis of Stock Performance in 2018
 ![Stock Performance in 2018](Resources/Peformance_2018.png)
 
-*This graph provides us data about how successful campaigns were based on their monetary goal. We see that the categories of "Less than $1000" and "$1000 to $4999" appear to have the highest success rates.
+
 
 ### Summary 
 
